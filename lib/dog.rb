@@ -2,7 +2,8 @@
 class Dog
   Dog.new
 end
-def name 
+def name="Fido"
+  
 class bark
   puts "woof!"
 end 
