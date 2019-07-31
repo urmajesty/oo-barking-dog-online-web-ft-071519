@@ -4,7 +4,7 @@ class Dog
 end
 
 class bark
-  puts woof!
+  puts "woof!"
 end 
 end
   
