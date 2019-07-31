@@ -1,7 +1,4 @@
-# Your code goes here!
-class Dog
-  Dog.new
-end
+
 
 
 class bark
