@@ -12,9 +12,9 @@ class Dog
   puts "woof!"
 end
 end
-fido = Dog.new
-fido.name= "Fido"
+dogs_name = Dog.new
+dogs_name.name= "Fido"
 
-fido.name
+dogs_name.name
 
-fido.bark
+dogs_name.bark
