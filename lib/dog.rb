@@ -1,7 +1,8 @@
 
 
 
-class bark
+class 
+  def bark
   puts "woof!"
 end 
 
