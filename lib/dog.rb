@@ -1,7 +1,9 @@
 
-class 
+class Dog
+  Dog.new
+end
 
-class 
+class Dog
   def bark
   puts "woof!"
 end 
