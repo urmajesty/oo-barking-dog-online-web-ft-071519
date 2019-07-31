@@ -1,8 +1,5 @@
 
 class Dog
-  Dog.new
-end
-
 
 
 def name=(dogs_name)
